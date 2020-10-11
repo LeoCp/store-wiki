@@ -16,6 +16,7 @@
 @ProductBase
 + id
 + name
++ photo
 + description
 
 @ProductInfo
