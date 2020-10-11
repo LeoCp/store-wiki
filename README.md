@@ -7,6 +7,7 @@
 
 @User
 + id
++ role
 + name
 + email
 + phone
